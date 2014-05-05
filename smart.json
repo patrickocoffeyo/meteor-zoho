@@ -1,0 +1,8 @@
+{
+  "name": "zoho",
+  "description": "Simple Zoho integration for Meteor.",
+  "homepage": "https://github.com/patrickocoffeyo/meteor-zoho",
+  "author": "Patrick Coffey  (http://patrickcoffey.io)",
+  "version": "0.0.1",
+  "git": "https://github.com/patrickocoffeyo/meteor-zoho.git"
+}
